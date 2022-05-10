@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Nhi Le</h1>
 <h3 align="center">A passionate Data Analyst from Finland</h3>
-
+<p>
+<img src="https://cdn.dribbble.com/users/2131993/screenshots/15628402/media/7bb0d27e44d8c2eff47276ae86bfd6a3.png?compress=1&resize=400x300" width="100%"/>
+ </p>
 - 💬 Ask me about **Python**
 
 - 📫 How to reach me **hanhnhile104@gmail.com**
